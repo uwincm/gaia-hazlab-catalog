@@ -208,3 +208,12 @@ __marimo__/
 # pixi environments
 .pixi/*
 !.pixi/config.toml
+
+# Output images
+*.tif
+*.tiff
+*.png
+*.jpg
+
+# Local settings.json file
+settings.json
