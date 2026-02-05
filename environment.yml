@@ -1,0 +1,17 @@
+name: gaia-hazlab-catalog
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - numpy
+  - dask
+  - netCDF4
+  - pandas
+  - geopandas
+  - scipy
+  - xarray
+  - rasterio
+  - rioxarray
+  - matplotlib
+  - cartopy
+  - jupyterlab
